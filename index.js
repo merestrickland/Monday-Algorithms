@@ -9,7 +9,7 @@ function moveElementToEnd(arr, toMove){
     } else num
   })
   return arr
-  
+
 }
 
 moveElementToEnd([2, 1, 2, 2, 2, 3, 4, 2], 2)
